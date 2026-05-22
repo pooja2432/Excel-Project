@@ -5,12 +5,12 @@ A basic Excel dashboard created to analyze monthly sales performance and order v
 
 ## Tools and Features used
 
-Microsoft Excel
-Pivot Table
-Pivot Chart
-Data Filtering
-Conditional Formatting
-Dashboard Visualization
+Microsoft Excel,
+Pivot Table,
+Pivot Chart,
+Data Filtering,
+Conditional Formatting,
+Dashboard Visualization.
   
 ---
 
