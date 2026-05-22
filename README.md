@@ -14,6 +14,12 @@ Dashboard Visualization
   
 ---
 
+## 📸 Screenshots
+
+(ExcelProject_Screenshot.png)
+
+---
+
 ## 👩‍💻 Author
 
 Pooja Kumari
