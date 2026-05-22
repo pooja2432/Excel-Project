@@ -14,7 +14,7 @@ Dashboard Visualization.
   
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Dashboard](ExcelProject_Screenshot.png)
 
