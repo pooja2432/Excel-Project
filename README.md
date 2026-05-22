@@ -1,2 +1,20 @@
 # Excel-Project
-An Excel-based sales and customer analysis dashboard designed for a fashion e-commerce store. The project visualizes key business insights including monthly sales trends, product category performance, customer demographics, retention analysis, and regional market reach. 
+A basic Excel dashboard created to analyze monthly sales performance and order volume. The dashboard helps in understanding sales trends, total revenue generated, and the number of customer orders throughout the year.
+
+---
+
+## Tools and Features used
+
+Microsoft Excel
+Pivot Table
+Pivot Chart
+Data Filtering
+Conditional Formatting
+Dashboard Visualization
+  
+---
+
+## 👩‍💻 Author
+
+Pooja Kumari
+Computer Science Graduate(B.Tech)
